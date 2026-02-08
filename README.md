@@ -1,2 +1,6 @@
-# Kruiser-Web-Browser
-Im currently not satisifed with Kruiser right now and i want to wait a little bit before finishing the initial commit
+# Kruiser Web Browser
+A lightweight web browser for lightweight people
+# Requirements
+Qt 6.9.2
+# Install Instructions
+just put it in a folder (it will make a folder in the directory that it is in storing cookies) and run it
